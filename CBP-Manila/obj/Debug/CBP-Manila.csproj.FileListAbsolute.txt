@@ -1,0 +1,42 @@
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.exe.config
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.exe
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.pdb
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csprojAssemblyReference.cache
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form1.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Properties.Resources.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.GenerateResource.cache
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.CoreCompileInputs.cache
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.exe
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.pdb
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\Interop.WMPLib.dll
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\Interop.WMPLib.dll
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.ResolveComReference.cache
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form2.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form3.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form4.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form5.resources
+C:\Users\JeffCatulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form6.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.exe.config
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.exe
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBP-Manila.pdb
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csprojAssemblyReference.cache
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.ResolveComReference.cache
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form1.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form2.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form3.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form4.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form5.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Form6.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP_Manila.Properties.Resources.resources
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.GenerateResource.cache
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.csproj.CoreCompileInputs.cache
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.exe
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\obj\Debug\CBP-Manila.pdb
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\logIn.accdb
+C:\Users\Jeff Catulay\source\repos\CBP-Manila\CBP-Manila\bin\Debug\CBPBusinessDatabase.accdb
